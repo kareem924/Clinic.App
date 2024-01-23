@@ -3,12 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{D36F9174-86CD-4872-9C8B-E5F9893EF901}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{41E0CBE4-9282-4C96-ACB6-D3ABCDB56AD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{5D7FB70E-FC84-4D36-ABA7-ACB427357222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Api", "TherapyTrack.Api\TherapyTrack.Api.csproj", "{A4B6E71E-E78C-411A-933D-C5063BD45CBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B6E71E-E78C-411A-933D-C5063BD45CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B6E71E-E78C-411A-933D-C5063BD45CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B6E71E-E78C-411A-933D-C5063BD45CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B6E71E-E78C-411A-933D-C5063BD45CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4B6E71E-E78C-411A-933D-C5063BD45CBD} = {D36F9174-86CD-4872-9C8B-E5F9893EF901}
 	EndGlobalSection
 EndGlobal

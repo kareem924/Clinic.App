@@ -2,4 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/TherapyTrack/FileContentIndex
+/.vs/*
+*/obj
+/.vs/TherapyTrack/v17/.suo
