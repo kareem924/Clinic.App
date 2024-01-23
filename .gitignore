@@ -7,3 +7,11 @@
 /.vs/TherapyTrack/v17/.suo
 .vs/**/*.suo
 /Api/TherapyTrack.Api/obj
+/BuildingBlocks/TherapyTrack.BuildingBlocks.Application/obj
+/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain/obj
+/BuildingBlocks/TherapyTrack.BuildingBlocks.EventBus/obj
+/BuildingBlocks/TherapyTrack.BuildingBlocks.Infrastructure/obj
+/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Application/obj
+/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Domain/obj
+/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Infrastructure/obj
+/Modules/Scheduling/TherapyTrack.Modules.Scheduling.IntegrationEvents/obj
