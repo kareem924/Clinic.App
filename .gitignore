@@ -5,3 +5,5 @@
 /.vs/*
 */obj
 /.vs/TherapyTrack/v17/.suo
+.vs/**/*.suo
+/Api/TherapyTrack.Api/obj
