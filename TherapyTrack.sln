@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{41
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{5D7FB70E-FC84-4D36-ABA7-ACB427357222}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Api", "Api\TherapyTrack.Api\TherapyTrack.Api.csproj", "{AF0990B1-6C85-478D-8570-67B809ADAB01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.Api", "Api\TherapyTrack.Api\TherapyTrack.Api.csproj", "{AF0990B1-6C85-478D-8570-67B809ADAB01}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{C9492710-896B-4520-94F8-34D0D7291CD3}"
 EndProject
@@ -21,21 +21,27 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Notification", "Notificatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomizableTemplates", "CustomizableTemplates", "{897EDB28-185F-4A8D-BE9D-64CBD146BFDC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Scheduling.Application", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Application\TherapyTrack.Modules.Scheduling.Application.csproj", "{2D7D567B-8261-47EB-9DD6-9572538DCC9C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.Modules.Scheduling.Application", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Application\TherapyTrack.Modules.Scheduling.Application.csproj", "{2D7D567B-8261-47EB-9DD6-9572538DCC9C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Scheduling.Domain", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Domain\TherapyTrack.Modules.Scheduling.Domain.csproj", "{13FC3B4F-273B-408D-BDB2-9E8A70BB7001}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.Modules.Scheduling.Domain", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Domain\TherapyTrack.Modules.Scheduling.Domain.csproj", "{13FC3B4F-273B-408D-BDB2-9E8A70BB7001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Scheduling.Infrastructure", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Infrastructure\TherapyTrack.Modules.Scheduling.Infrastructure.csproj", "{04F26311-9B21-4A6E-A59B-F088A5C73388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.Modules.Scheduling.Infrastructure", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.Infrastructure\TherapyTrack.Modules.Scheduling.Infrastructure.csproj", "{04F26311-9B21-4A6E-A59B-F088A5C73388}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Scheduling.IntegrationEvents", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.IntegrationEvents\TherapyTrack.Modules.Scheduling.IntegrationEvents.csproj", "{D86DD3ED-6EC6-40C9-9F8A-CF768396A3A3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.Modules.Scheduling.IntegrationEvents", "Modules\Scheduling\TherapyTrack.Modules.Scheduling.IntegrationEvents\TherapyTrack.Modules.Scheduling.IntegrationEvents.csproj", "{D86DD3ED-6EC6-40C9-9F8A-CF768396A3A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.BuildingBlocks.Application", "BuildingBlocks\TherapyTrack.BuildingBlocks.Application\TherapyTrack.BuildingBlocks.Application.csproj", "{18B1EF9E-A3F2-481D-88B1-B6CAF4617E28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.BuildingBlocks.Application", "BuildingBlocks\TherapyTrack.BuildingBlocks.Application\TherapyTrack.BuildingBlocks.Application.csproj", "{18B1EF9E-A3F2-481D-88B1-B6CAF4617E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.BuildingBlocks.Domain", "BuildingBlocks\TherapyTrack.BuildingBlocks.Domain\TherapyTrack.BuildingBlocks.Domain.csproj", "{D09EADA5-5736-4EBD-9A40-A99FE1FE9D6E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.BuildingBlocks.Domain", "BuildingBlocks\TherapyTrack.BuildingBlocks.Domain\TherapyTrack.BuildingBlocks.Domain.csproj", "{D09EADA5-5736-4EBD-9A40-A99FE1FE9D6E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.BuildingBlocks.EventBus", "BuildingBlocks\TherapyTrack.BuildingBlocks.EventBus\TherapyTrack.BuildingBlocks.EventBus.csproj", "{63DD7105-D857-41EB-82E2-EA9A4B8C9904}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.BuildingBlocks.EventBus", "BuildingBlocks\TherapyTrack.BuildingBlocks.EventBus\TherapyTrack.BuildingBlocks.EventBus.csproj", "{63DD7105-D857-41EB-82E2-EA9A4B8C9904}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.BuildingBlocks.Infrastructure", "BuildingBlocks\TherapyTrack.BuildingBlocks.Infrastructure\TherapyTrack.BuildingBlocks.Infrastructure.csproj", "{D7D2E63A-F943-4231-BF15-0866200640A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TherapyTrack.BuildingBlocks.Infrastructure", "BuildingBlocks\TherapyTrack.BuildingBlocks.Infrastructure\TherapyTrack.BuildingBlocks.Infrastructure.csproj", "{D7D2E63A-F943-4231-BF15-0866200640A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.CustomizableTemplates.Domain", "Modules\CustomizableTemplates\TherapyTrack.Modules.CustomizableTemplates.Domain\TherapyTrack.Modules.CustomizableTemplates.Domain.csproj", "{F114358F-36C0-4D6F-B318-3A3028E58D24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Notification.Domain", "Modules\Notification\TherapyTrack.Modules.Notification.Domain\TherapyTrack.Modules.Notification.Domain.csproj", "{28B0E0B1-24CF-471B-8843-2541654F3527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TherapyTrack.Modules.Payment.Domain", "Modules\Payment\TherapyTrack.Modules.Payment.Domain\TherapyTrack.Modules.Payment.Domain.csproj", "{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -79,6 +85,18 @@ Global
 		{D7D2E63A-F943-4231-BF15-0866200640A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7D2E63A-F943-4231-BF15-0866200640A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7D2E63A-F943-4231-BF15-0866200640A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F114358F-36C0-4D6F-B318-3A3028E58D24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F114358F-36C0-4D6F-B318-3A3028E58D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F114358F-36C0-4D6F-B318-3A3028E58D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F114358F-36C0-4D6F-B318-3A3028E58D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28B0E0B1-24CF-471B-8843-2541654F3527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28B0E0B1-24CF-471B-8843-2541654F3527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28B0E0B1-24CF-471B-8843-2541654F3527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28B0E0B1-24CF-471B-8843-2541654F3527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -97,6 +115,9 @@ Global
 		{D09EADA5-5736-4EBD-9A40-A99FE1FE9D6E} = {C9492710-896B-4520-94F8-34D0D7291CD3}
 		{63DD7105-D857-41EB-82E2-EA9A4B8C9904} = {C9492710-896B-4520-94F8-34D0D7291CD3}
 		{D7D2E63A-F943-4231-BF15-0866200640A1} = {C9492710-896B-4520-94F8-34D0D7291CD3}
+		{F114358F-36C0-4D6F-B318-3A3028E58D24} = {897EDB28-185F-4A8D-BE9D-64CBD146BFDC}
+		{28B0E0B1-24CF-471B-8843-2541654F3527} = {B836BF8D-F443-4EB7-B988-F423139190AA}
+		{EFED53E3-A61D-4D1E-B61E-D3AA34F4FEBB} = {FBF330AE-8688-4EC9-A588-03750AC0DFCA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A593F1AF-E683-4DE9-960C-B7354A2EA4DB}

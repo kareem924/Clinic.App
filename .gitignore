@@ -15,3 +15,6 @@
 /Modules/Scheduling/TherapyTrack.Modules.Scheduling.Domain/obj
 /Modules/Scheduling/TherapyTrack.Modules.Scheduling.Infrastructure/obj
 /Modules/Scheduling/TherapyTrack.Modules.Scheduling.IntegrationEvents/obj
+/Modules/CustomizableTemplates/TherapyTrack.Modules.CustomizableTemplates.Domain/obj
+/Modules/Notification/TherapyTrack.Modules.Notification.Domain/obj
+/Modules/Payment/TherapyTrack.Modules.Payment.Domain/obj
