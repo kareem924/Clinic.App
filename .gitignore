@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain/bin/Debug/net7.0
+/test/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain.Tests/bin/Debug/net7.0
+/test/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain.Tests/obj
