@@ -5,3 +5,11 @@
 /src/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain/bin/Debug/net7.0
 /test/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain.Tests/bin/Debug/net7.0
 /test/BuildingBlocks/TherapyTrack.BuildingBlocks.Domain.Tests/obj
+/src/Api/TherapyTrack.Api/bin/Debug/net7.0
+/src/BuildingBlocks/TherapyTrack.BuildingBlocks.Application/bin/Debug/net7.0
+/src/BuildingBlocks/TherapyTrack.BuildingBlocks.EventBus/bin/Debug/net7.0
+/src/BuildingBlocks/TherapyTrack.BuildingBlocks.Infrastructure/bin/Debug/net7.0
+/src/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Application/bin/Debug/net7.0
+/src/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Domain/bin/Debug/net7.0
+/src/Modules/Scheduling/TherapyTrack.Modules.Scheduling.Infrastructure/bin/Debug/net7.0
+/src/Modules/Scheduling/TherapyTrack.Modules.Scheduling.IntegrationEvents/bin/Debug/net7.0
